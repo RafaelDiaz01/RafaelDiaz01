@@ -1,7 +1,8 @@
 # Kevin Rafael Díaz López 🕷️
+##### <p align="center"><b><i>Estudiante de la Licenciatura en Informática</i></b></p>
 ![Foto Banner](https://github.com/RafaelDiaz01/RafaelDiaz01/blob/main/monta%C3%B1as.jpg)
 
-¡Hola que tal!. Soy Kevin Rafael Díaz López, un joven programador de 20 años, originario de México, con una gran pasión por la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y enfrentar desafíos que me permitan mejorar mis habilidades.<br><br>Estoy constantemente buscando oportunidades para colaborar en proyectos interesantes, ya sea en equipo o de manera independiente, siempre con el objetivo de seguir creciendo y superándome. Mi meta es destacar como desarrollador y contribuir a soluciones innovadoras que tengan un impacto positivo.<br><br>Siempre estoy abierto a aprender algo nuevo y a trabajar en proyectos que impulsen mi crecimiento.<br><br>Como pasatiempos me gusta crear y escuchar música, en especial regional mexicano. Mi deporte favorito es el fútbol, aunque también práctico basquetball y voy al gimnasio. Me gusta jugar videojuegos y soy fan de las consolas. 
+<p align="center"> Soy Kevin Rafael Díaz López, un joven programador Mexicano de 21 años, con una gran pasión por la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y enfrentar desafíos que me permitan mejorar mis habilidades.<br><br>Estoy constantemente buscando oportunidades para colaborar en proyectos interesantes, ya sea en equipo o de manera independiente, siempre con el objetivo de seguir creciendo y superándome. Mi meta terminando la carrera es destacar como desarrollador y contribuir a soluciones innovadoras que tengan un impacto positivo en mi comunidad.<br><br>Siempre estoy abierto a aprender algo nuevo y a trabajar en proyectos que impulsen mi crecimiento.<br><br>Como pasatiempos me gusta crear y escuchar música, en especial regional mexicano. Mi deporte favorito es el fútbol, aunque también práctico basquetball y voy al gimnasio. Me gusta jugar videojuegos y soy fan de las consolas. </p>
 
 
 ## 🌐 Socials:
@@ -13,10 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=RafaelDiaz01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RafaelDiaz01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDiaz01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RafaelDiaz01&theme=default&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=RafaelDiaz01&icon=5&color=3)](https://visitcount.itsvg.in)
-
